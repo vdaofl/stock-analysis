@@ -24,15 +24,15 @@ In this challenge, we will edit, or refactor, the Module 2 solution code to loop
 ### What are the advantages or disadvantages of refactoring code?   
 
 #### Advantages:
--- The code becomes more efficient. Less steps.
--- Uses less memory.
--- Easy to read for future users.
+- The code becomes more efficient. Less steps.
+- Uses less memory.
+- Easy to read for future users.
 
 ####  Disadvantages:
--- Bugs can be introduced when application becomes too big.
--- Risky when existing code doesn't have proper test cases to find introduced bugs
--- Risks involved if developers don' understand the original code
--- This takes extra time, and sometimes that it not available.
+- Bugs can be introduced when application becomes too big.
+- Risky when existing code doesn't have proper test cases to find introduced bugs
+- Risks involved if developers don' understand the original code
+- This takes extra time, and sometimes that it not available.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 

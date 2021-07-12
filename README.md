@@ -12,27 +12,27 @@ In this challenge, we will edit, or refactor, the Module 2 solution code to loop
 ![2018 before refactoring](https://i.imgur.com/WkkzH9U.png)
 
 
-**_Results After:_** After refactoring: 0.109375 seconds for 2017 data and 0.1054688 seconds for 2018 data
+**__Results After_:_** After refactoring: 0.109375 seconds for 2017 data and 0.1054688 seconds for 2018 data
 
 ![2017 after refactoring](https://i.imgur.com/BnLcbR0.png)
 ![2018 after refactoring](https://i.imgur.com/irtzbNO.png)
 
-**_Conclusion:_** After refactoring the code, the script runs faster.
+**__Conclusion_:_** After refactoring the code, the script runs faster.
 
 ## Summary
 
 ### What are the advantages or disadvantages of refactoring code?   
 
 #### Advantages:
-- The code becomes more efficient. Less steps.
-- Uses less memory.
-- Easy to read for future users.
+-- The code becomes more efficient. Less steps.
+-- Uses less memory.
+-- Easy to read for future users.
 
 ####  Disadvantages:
-- Bugs can be introdued when application becomes too big.
-- Can be risky when existing code doesn't have proper test cases to find introduced bugs
-- Risks involved if developers don' understand the original code
-- This takes extra time, and sometimes that it not available.
+-- Bugs can be introduced when application becomes too big.
+-- Risky when existing code doesn't have proper test cases to find introduced bugs
+-- Risks involved if developers don' understand the original code
+-- This takes extra time, and sometimes that it not available.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 

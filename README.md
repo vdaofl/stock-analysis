@@ -12,12 +12,12 @@ In this challenge, we will edit, or refactor, the Module 2 solution code to loop
 ![2018 before refactoring](https://i.imgur.com/WkkzH9U.png)
 
 
-**__Results After_:_** After refactoring: 0.109375 seconds for 2017 data and 0.1054688 seconds for 2018 data
+**Results After:_** After refactoring: 0.109375 seconds for 2017 data and 0.1054688 seconds for 2018 data
 
 ![2017 after refactoring](https://i.imgur.com/BnLcbR0.png)
 ![2018 after refactoring](https://i.imgur.com/irtzbNO.png)
 
-**__Conclusion_:_** After refactoring the code, the script runs faster.
+**Conclusion:** After refactoring the code, the script runs faster.
 
 ## Summary
 

@@ -36,4 +36,4 @@ In this challenge, we will edit, or refactor, the Module 2 solution code to loop
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
-After refactoring the code, the script ran only marginally faster. However, to make this happen, it took hours. In a business sense, the benefits do not outweigh the costs (time and money). The only scenario where refactoring the code may be advantageous would be if the data set was much larger.
+After refactoring the code, the script ran only marginally faster. However, to make this happen, it took hours. In a business sense, the benefits do not outweigh the costs (time and money). The only scenario where refactoring the code may be advantageous would be if the data set were much larger.

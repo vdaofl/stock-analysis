@@ -6,7 +6,7 @@
 In this challenge, we will edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that we did in this module. Then, we’ll determine whether refactoring the code successfully made the VBA script run faster. Finally, we’ll present a written analysis that explains our findings.
 
 ### **Results Before and After**
-**_Results Before:_** Before refactoring: 0.169688 seconds for 2017 data and .05703125 seconds for 2018 data
+**Results Before:** Before refactoring: 0.169688 seconds for 2017 data and .05703125 seconds for 2018 data
 
 ![2017 before refactoring](https://i.imgur.com/4UFxydv.png)
 ![2018 before refactoring](https://i.imgur.com/WkkzH9U.png)
